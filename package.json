@@ -1,0 +1,17 @@
+{
+  "name": "poor-mans-jsrepl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "repl": "node ./repl.js",
+    "repl:d": "node ./repl.js debug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "chokidar": "^3.4.0"
+  }
+}
